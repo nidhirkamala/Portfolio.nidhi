@@ -323,5 +323,22 @@ width: 100%;
         margin-top: 20px;
         cursor: pointer;
     }
+ .btn-submit{
+        display: block;
+        margin: 50px 0;
+        width: fit-content;
+        border: 1px solid rgb(1, 69, 96);
+        padding: 14px 50px;
+        border-radius: 6px;
+        text-decoration: none;
+        color: rgb(1, 69, 96);
+
+    }
+    .btn-submit:hover{
+        background:rgb(1, 69, 96) ;
+       transition: 0.5s;
+       color: #fff;
+
+    }
 
     
